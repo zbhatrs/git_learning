@@ -4,10 +4,12 @@ using namespace std
 int main(void)
 {
    cout << "hello git!" << endl;
-t
+
    cout << "hello github!" << endl;	
 
    cout << "git command learning,i love github!"<<endl;	
+
+   cout << "git command learning.i love git!"<<endl;	
 
    return 0;	
 }
