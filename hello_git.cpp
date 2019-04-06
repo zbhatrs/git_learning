@@ -7,7 +7,7 @@ int main(void)
 t
    cout << "hello github!" << endl;	
 
-   cout << "git command learning"<<endl;	
+   cout << "git command learning,i love github!"<<endl;	
 
    return 0;	
 }
