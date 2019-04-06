@@ -2,3 +2,4 @@
 
 we are going to revord git commands here.
 eg add and so on.
+git mv readme readme.md
